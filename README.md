@@ -22,4 +22,4 @@ Following metadata is being added: Title, Artist, Album, Genre, Date, Cover.
 - Click the 'Submit' button OR press 'Enter' on the keyboard.
 - If you find that none of the columns are correct for you, write input as 0 or keep it blank, then click 'Submit'.
 
-![alt text](https://github.com/tkanhe/Write-Metadata-to-Flac-Music-Files/blob/main/Capture.png?raw=true)
+![alt text](https://github.com/tkanhe/Write-Metadata-to-Flac-Music-Files/blob/main/demo.png?raw=true)
