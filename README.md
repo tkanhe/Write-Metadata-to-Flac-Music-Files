@@ -1,5 +1,9 @@
 # Write-Metadata-to-Flac-Music-Files
 
+> Target1: Support for MP3, M4A, MPC, OGG, OPUS etc.  
+> Target2: Get Metadata from Deezer, Spotify etc.  
+> ***Let me know if there is need for above improvements.***
+
 This script takes the metadata from https://itunes.apple.com.  
 Following metadata is being added: Title, Artist, Album, Genre, Date, Cover.
 
