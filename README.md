@@ -11,7 +11,7 @@ Following metadata is being added: Title, Artist, Album, Genre, Date, Cover.
 - Path to folder containing flac files
 - [Optional] size: Cover size (possible range 300 to 3000)
 - [Optional] error: tolerance in seconds for the track == abs(length_of_local_file - track_length_from_itunes)  
-***The recommended range for error is 1 to 5. Higher the error more will be the False Positives (reduces accuracy). Lower the error results in False Negatives (reduces the number metadata written files).***
+***The recommended range for error is 1 to 5. Higher the error more will be the False Positives (reduces accuracy). Lower the error results in False Negatives (reduces the number of metadata written files).***
 
 ### Requirements:
 - Mutagen ```pip install mutagen```
