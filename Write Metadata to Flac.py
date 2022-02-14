@@ -1,6 +1,5 @@
 import glob
 import os
-from unicodedata import name
 import requests
 import urllib.request
 import PySimpleGUI as Sg
@@ -114,5 +113,5 @@ def setup(err=3, sizes=1000):
     print("Task completed!!!")
 
 
-if name == __name__:
+if __name__ == __name__:
     setup(error, size)
